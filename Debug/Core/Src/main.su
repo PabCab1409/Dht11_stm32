@@ -1,0 +1,8 @@
+../Core/Src/main.c:40:5:main	8	static
+../Core/Src/main.c:63:6:SystemClock_Config	88	static
+../Core/Src/main.c:106:9:init_DHT11	8	static
+../Core/Src/main.c:125:9:check_response	16	static
+../Core/Src/main.c:142:9:read_dht11	16	static
+../Core/Src/main.c:180:6:GPIO_set_mode	40	static
+../Core/Src/main.c:204:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:218:6:Error_Handler	4	static,ignoring_inline_asm
